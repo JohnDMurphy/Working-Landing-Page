@@ -1,11 +1,11 @@
 # Landing Page
 
-> One paragraph statement about the project.
+> A simple landing page with a working mailing list signup.
 
 ![screenshot](src/images/landpage.png)
 ![screenshot](src/images/signuppage.png)
 
-Additional description about the project and its features.
+Please note if you sign up you will not be signed up to a mailing list and all email addresses will be deleted periodically.
 
 ## Built With
 
