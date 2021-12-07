@@ -9,9 +9,9 @@ Additional description about the project and its features.
 
 ## Built With
 
--HTML
--CSS
--BOOTSTRAP
+- HTML
+- CSS
+- Bootstrap
 
 ## Live Demo
 
